@@ -1,0 +1,132 @@
+[
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_application.cpp.o -c /home/andre/cg-ufabc/abcg/abcg_application.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/abcg_application.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_elapsedtimer.cpp.o -c /home/andre/cg-ufabc/abcg/abcg_elapsedtimer.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/abcg_elapsedtimer.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_exception.cpp.o -c /home/andre/cg-ufabc/abcg/abcg_exception.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/abcg_exception.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_image.cpp.o -c /home/andre/cg-ufabc/abcg/abcg_image.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/abcg_image.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_openglfunctions.cpp.o -c /home/andre/cg-ufabc/abcg/abcg_openglfunctions.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/abcg_openglfunctions.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_openglwindow.cpp.o -c /home/andre/cg-ufabc/abcg/abcg_openglwindow.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/abcg_openglwindow.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_string.cpp.o -c /home/andre/cg-ufabc/abcg/abcg_string.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/abcg_string.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/abcg.dir/abcg_trackball.cpp.o -c /home/andre/cg-ufabc/abcg/abcg_trackball.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/abcg_trackball.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg/external/imgui",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/opt/local/include -I/home/andre/cg-ufabc/abcg/external/imgui -g -flto -fno-fat-lto-objects -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/andre/cg-ufabc/abcg/external/imgui/imgui.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/external/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg/external/imgui",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/opt/local/include -I/home/andre/cg-ufabc/abcg/external/imgui -g -flto -fno-fat-lto-objects -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/andre/cg-ufabc/abcg/external/imgui/imgui_demo.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/external/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg/external/imgui",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/opt/local/include -I/home/andre/cg-ufabc/abcg/external/imgui -g -flto -fno-fat-lto-objects -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/andre/cg-ufabc/abcg/external/imgui/imgui_draw.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg/external/imgui",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/opt/local/include -I/home/andre/cg-ufabc/abcg/external/imgui -g -flto -fno-fat-lto-objects -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/andre/cg-ufabc/abcg/external/imgui/imgui_tables.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/external/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg/external/imgui",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/opt/local/include -I/home/andre/cg-ufabc/abcg/external/imgui -g -flto -fno-fat-lto-objects -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/andre/cg-ufabc/abcg/external/imgui/imgui_widgets.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg/external/imgui",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/opt/local/include -I/home/andre/cg-ufabc/abcg/external/imgui -g -flto -fno-fat-lto-objects -o CMakeFiles/imgui.dir/imgui_impl_sdl.cpp.o -c /home/andre/cg-ufabc/abcg/external/imgui/imgui_impl_sdl.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/external/imgui/imgui_impl_sdl.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg/external/imgui",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/opt/local/include -I/home/andre/cg-ufabc/abcg/external/imgui -g -flto -fno-fat-lto-objects -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c /home/andre/cg-ufabc/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/andre/cg-ufabc/abcg/external/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/abcg/external/fmt",
+  "command": "/usr/bin/c++  -I/home/andre/cg-ufabc/abcg/external/fmt -g -flto -fno-fat-lto-objects -std=gnu++2a -o CMakeFiles/fmt.dir/format.cc.o -c /home/andre/cg-ufabc/abcg/external/fmt/format.cc",
+  "file": "/home/andre/cg-ufabc/abcg/external/fmt/format.cc"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/Hogwarts",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/loadmodel.dir/main.cpp.o -c /home/andre/cg-ufabc/examples/Hogwarts/main.cpp",
+  "file": "/home/andre/cg-ufabc/examples/Hogwarts/main.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/Hogwarts",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/loadmodel.dir/openglwindow.cpp.o -c /home/andre/cg-ufabc/examples/Hogwarts/openglwindow.cpp",
+  "file": "/home/andre/cg-ufabc/examples/Hogwarts/openglwindow.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/hogwarts2",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/hogwarts2.dir/main.cpp.o -c /home/andre/cg-ufabc/examples/hogwarts2/main.cpp",
+  "file": "/home/andre/cg-ufabc/examples/hogwarts2/main.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/hogwarts2",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/hogwarts2.dir/model.cpp.o -c /home/andre/cg-ufabc/examples/hogwarts2/model.cpp",
+  "file": "/home/andre/cg-ufabc/examples/hogwarts2/model.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/hogwarts2",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/hogwarts2.dir/openglwindow.cpp.o -c /home/andre/cg-ufabc/examples/hogwarts2/openglwindow.cpp",
+  "file": "/home/andre/cg-ufabc/examples/hogwarts2/openglwindow.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/hogwarts2",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/hogwarts2.dir/trackball.cpp.o -c /home/andre/cg-ufabc/examples/hogwarts2/trackball.cpp",
+  "file": "/home/andre/cg-ufabc/examples/hogwarts2/trackball.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/skull",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/skull.dir/main.cpp.o -c /home/andre/cg-ufabc/examples/skull/main.cpp",
+  "file": "/home/andre/cg-ufabc/examples/skull/main.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/skull",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/skull.dir/model.cpp.o -c /home/andre/cg-ufabc/examples/skull/model.cpp",
+  "file": "/home/andre/cg-ufabc/examples/skull/model.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/skull",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/skull.dir/openglwindow.cpp.o -c /home/andre/cg-ufabc/examples/skull/openglwindow.cpp",
+  "file": "/home/andre/cg-ufabc/examples/skull/openglwindow.cpp"
+},
+{
+  "directory": "/home/andre/cg-ufabc/build/examples/skull",
+  "command": "/usr/bin/c++  -I/usr/include/SDL2 -I/home/andre/cg-ufabc/abcg -I/home/andre/cg-ufabc/abcg/external/cppitertools -I/home/andre/cg-ufabc/abcg/external/fmt -I/home/andre/cg-ufabc/abcg/external/glm/.. -I/home/andre/cg-ufabc/abcg/external/imgui -isystem /home/andre/cg-ufabc/abcg/external -g -flto -fno-fat-lto-objects -Wall -Wextra -pedantic -std=gnu++2a -o CMakeFiles/skull.dir/trackball.cpp.o -c /home/andre/cg-ufabc/examples/skull/trackball.cpp",
+  "file": "/home/andre/cg-ufabc/examples/skull/trackball.cpp"
+}
+]
